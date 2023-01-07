@@ -1,0 +1,16 @@
+.mainsection{
+    padding:10px;
+    display:flex;
+}
+
+.content{
+    width:70%;
+    border: 5px solid grey;
+    margin:10px;
+}
+
+.sidebar {
+    flex-grow: 1;
+    border: 5px solid grey;
+    margin: 10px;
+}
